@@ -2,6 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+/* I Have added MouseLister if any user will enter in
+passwordField or userName both the fields will change colour and font size will also 
+increase */
+
 
 public class LogInPage extends JFrame implements MouseListener {
     JPanel backgroundOfPage;
