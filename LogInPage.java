@@ -21,8 +21,8 @@ public class Main extends JFrame implements MouseListener {
     Main(){
 
         // label work for Log - In is Here:
-        LoginL = new JLabel("Log - In");
-        LoginL.setFont(new Font("Small caps ",Font.BOLD,50));
+         LoginL = new JLabel("Log-In");
+        LoginL.setFont(new Font("Small caps ", Font.BOLD, 49));
         LoginL.setForeground(Color.lightGray);
 
         // username and password textField --> work Here: (Note: Adding MouseListener in Both of text-field)
