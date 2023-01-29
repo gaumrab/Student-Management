@@ -50,6 +50,7 @@ public class Main extends JFrame implements MouseListener {
         logInContainer.setFont(new Font("Small caps ",Font.BOLD,20));
 
         submit = new JButton("SUBMIT");
+        submit.setFocusable(false);
         submit.setForeground(Color.lightGray);
         submit.setBackground(Color.black);
        // Location for all the components on Layout is here:
