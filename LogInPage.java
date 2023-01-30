@@ -10,8 +10,7 @@ increase */
 
 class LogInPage extends JFrame implements MouseListener {
 
-    //    JPanel backgroundOfPage1; // back - ground1 for welcome
-//    JPanel backgroundOfPage2 ; // back - ground2 for login
+   
     JLabel logInContainer;  // label for Name
     JLabel passwordContainer; // label for password
     JLabel LoginL; // label for print Log - In
