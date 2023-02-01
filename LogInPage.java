@@ -64,8 +64,8 @@ class LogInPage extends JFrame implements MouseListener {
 
         // image work Here:
 
-        img = new JLabel();
-        img.setIcon(new ImageIcon("C:\\Users\\gaura\\Pictures\\student.jpg"));
+         img = new JLabel();
+        img.setIcon(new ImageIcon("student.jpg"));
         img.setBounds(10, 10, 590, 600);
 
 
